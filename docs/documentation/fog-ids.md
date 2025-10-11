@@ -65,6 +65,7 @@ show_outline: false
 | minecraft:fog_mushroom_island                  | mushroom_island                  | 
 | minecraft:fog_mushroom_island_shore            | mushroom_island_shore            | 
 | minecraft:fog_ocean                            | ocean                            | 
+| minecraft:fog_pale_garden                      | pale_garden                      | 
 | minecraft:fog_plains                           | plains                           | 
 | minecraft:fog_river                            | river                            | 
 | minecraft:fog_roofed_forest                    | roofed_forest                    | 
