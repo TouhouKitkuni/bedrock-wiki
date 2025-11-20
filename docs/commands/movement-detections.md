@@ -18,7 +18,7 @@ These command-techniques allow you to detect certain player/entity 'states' and 
 > Note: For a more performant and high-accuracy approach, it is advisable to use [Animation Controllers](/animation-controllers/animation-controllers-intro)
 
 ## is_moving
-
+## 1.21.100 (MCPE-163558) "Leash Knots now immediately disappear when the block supporting them is destroyed" has broke the Movement Detection System that uses Leash Knots
 This technique allows you to detect when your target is/isn't moving, accounting for even subtle movements.
 
 ![](/assets/images/commands/movement-detections/moving.gif)
